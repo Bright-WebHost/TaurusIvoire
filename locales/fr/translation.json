@@ -1,0 +1,120 @@
+{
+    "nav1":"Accueil",
+    "nav2":"A propos de",
+    "nav3":"Services ",
+    "nav4":"Contact",
+
+   
+
+    "bannersub":{
+        "bannerhedaing1":"Découvrez l'élégance du teck d'Afrique de l'Ouest",
+        "bannerhedaing2":"Bois scié personnalisé selon les exigences du client",
+        "bannerhedaing3":"Bois écologiquement durable provenant de plantations gérées",
+        "sub1":" Découvrez la beauté inégalée du teck d'Afrique de l'Ouest, sa durabilité, sa couleur riche et son grain fin, parfaits pour des meubles luxueux et élégants.",
+        "sub2":" Nous proposons des bois sciés sur mesure, fabriqués selon vos spécifications, livrés par des artisans qualifiés pour répondre à votre vision unique",
+        "sub3":"La durabilité est au cœur de nos préoccupations. Nous nous approvisionnons en bois respectueux de l'environnement dans des plantations gérées afin de minimiser l'impact"
+    },
+
+
+"homepageabout":{
+    "mainpagehead":"Découvrez le meilleur",
+    "mainpageheadsapn":"du teck de Côte d'Ivoire avec Taurus Ivoire.",
+    "mainpageabout":"Taurus Ivoire est un exportateur de premier plan de bois de teck scié et séché, basé au cœur de la Côte d'Ivoire, en Afrique de l'Ouest. Créée par des entrepreneurs ivoiriens passionnés, elle se concentre sur.",
+    "mainpageli1":"Qualité et durabilité",
+    "mainpageli2":"Engagement en matière de pratiques éthiques",
+    "mainpageli3":"Choix préférentiel pour le teck de qualité supérieure",
+    "mainpagebtn":" À propos de nous"
+
+},
+
+"ourproduct":{
+    "mainheading":"NOS",
+    "mainheadingsapn":"PRODUITS",
+    "productheading":"Du teck de qualité",
+    "productheadingsapn":"pour chaque projet",
+    "subtext":"Explorez notre collection et découvrez comment Taurus Ivoire peut répondre à vos besoins en bois de teck pour des projets petits et grands. Que vous soyez un fabricant de meubles, une entreprise de construction ou un passionné du travail du bois, nous sommes là pour vous fournir.",
+    "li1":"Qualité supérieure et polyvalence",
+    "li2":"Idéal pour diverses applications",
+    "li3":"Du bois brut aux planches finies",
+    "li4":"Qualité et fiabilité garanties",
+    "btn":"Lire la suite",
+    "botttomtext":"NOS PRODUITS",
+    "contactinfo1":"Prendre ",
+    "contactinfo2":"Contact",
+    "names":"nom",
+    "email":"courriel",
+    "Phone":"téléphone",
+    "Textarea":"message",
+    "contactinfobtn":"SOUMETTRE MAINTENANT"
+
+
+
+},
+
+"footer":{
+    "toptext":"Prendre contact avec Taurus Ivoire",
+    "topsub":"Notre équipe est prête à répondre à tous vos besoins en matière de bois de teck",
+    "topbtn":" Nous contacter",
+    "logobottomtext":"Taurus Ivoire répond à vos besoins en bois de teck, de l'ameublement à la construction. Obtenez le meilleur teck d'Afrique de l'Ouest pour n'importe quel projet.",
+    "rightheading":"NOUS CONTACTER",
+    "rightheading2":"LIENS UTILES",
+    "nav1":"Accueil",
+    "nav2":"A propos de",
+    "nav3":"Services",
+    "nav4":"Contact",
+    "copyright":"Conçu Par"
+    
+},
+
+
+"AbouPage":{
+    "bannerhead":"À PROPOS DE NOUS",
+    "producttext":"À PROPOS DE ",
+    "producttext1":"TAURUS IVOIRE ",
+    "p1":"Taurus Ivoire est un exportateur majeur de bois de teck scié et séché basé au cœur de la Côte d'Ivoire, en Afrique de l'Ouest. Fondée par des entrepreneurs ivoiriens passionnés, notre société est passée d'une entreprise locale à un nom de confiance dans l'industrie internationale du bois.",
+    "p2":"Chez Taurus Ivoire, nous donnons la priorité à la qualité et à la durabilité. Notre bois de teck est récolté de manière responsable dans des forêts gérées, ce qui garantit que chaque pièce répond à nos normes strictes en matière de durabilité et de beauté. Nous travaillons en étroite collaboration avec les communautés locales et les experts forestiers afin de promouvoir des pratiques éthiques et une bonne gestion de l'environnement.",
+    "p3":"Découvrez pourquoi Taurus Ivoire est le choix préféré des clients exigeants qui recherchent des produits en bois de teck de première qualité, soutenus par un engagement d'excellence.",
+    "btn":"Prendre contact"
+
+
+},
+"AboutpageBanner":"À PROPOS DE NOUS",
+
+"Servicepage":{
+    "producthead1":"À PROPOS ",
+    "producthead2":"DU PRODUIT ",
+    "heading1":"Qualité supérieure et polyvalence",
+    "sub1":"Chez Taurus Ivoire, nos produits en bois de teck scié et séché sont réputés pour leur qualité supérieure et leur polyvalence. Parfait pour une gamme d'applications allant de l'ameublement à la construction robuste, chaque pièce illustre l'excellence du teck d'Afrique de l'Ouest.",
+    "heading2":"Idéal pour diverses applications",
+    "sub2":"Nos produits en bois de teck sont parfaits pour de nombreuses utilisations, notamment la fabrication de meubles, de planchers, de terrasses, etc. Que vous travailliez sur un projet résidentiel ou commercial, nous avons les matériaux qu'il vous faut.",
+    "heading3":"Du bois brut aux planches finies",
+    "sub3":"Vous avez le choix entre notre bois brut de sciage pour les besoins structurels et nos planches finement finies pour les meubles et les armoires haut de gamme. Chaque produit est conçu pour répondre aux exigences spécifiques de votre projet.",
+    "heading4":"Qualité et fiabilité garanties",
+    "sub4":"Avec Taurus Ivoire, vous pouvez compter sur la qualité et la fiabilité de chaque pièce de bois de teck. Parcourez notre catalogue pour voir comment nos produits peuvent donner vie à votre vision."
+},
+
+"Contactpage":{
+    "leftside1":"CONTACTEZ-",
+    "leftside2":"NOUS",
+    "rightside1":"CONTACT",
+    "rightside2":"INFO",
+    "phone":"Numéro de téléphone",
+    "email":"Adresse électronique",
+    "Adresse":"Adresse info",
+    "btn":"SOUMETTRE ",
+    "names":"nom",
+    "emailfill":"Courriel", 
+    "main1":"Vous avez des questions ?",
+    "main2":"Envoyez-nous un ",
+    "main3":"Message "
+   
+
+},
+
+    
+    "greeting": "Bonjour, Bienvenue !",
+    "description": {
+      "line1": "Vous regardez la chaîne YouTube <1>{{channel}}</1>",
+      "line2": "Ceci est un tutoriel d'internationalisation"
+    }
+  }
